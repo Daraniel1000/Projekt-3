@@ -1,0 +1,22 @@
+5
+0 0 Guest
+Guest
+0 0 0 0
+0
+1 1 Maciej
+Kapuscinski
+20 2 1998 admin
+0
+2 0 Sebastian
+Pietras
+11 9 2001 nieadmin
+0
+3 0 Ignacy
+Katkowski
+2 2 1998 balwan
+0
+4 0 Grzegorz
+Brzeczyszczykiewicz
+19 5 1901 maslo
+0
+0

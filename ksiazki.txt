@@ -1,0 +1,22 @@
+5
+0 0
+Tolkien
+Wladca Pierscieni
+0 0 0
+1 0
+Pratchett
+Kolor Magii
+0 0 0
+2 0
+Pratchett
+Blask Fantastyczny
+0 0 0
+-1 0
+Cejrowski
+Boso przez swiat
+0 0 0
+4 0
+Sapkowski
+Ostatnie Zyczenie
+0 0 0
+1 3
