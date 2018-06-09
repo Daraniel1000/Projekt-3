@@ -112,11 +112,11 @@ public:
 class usermenu
 {
 protected:
-    booklist &bl;
-    userlist &ul;
+    booklist bl;
+    userlist ul;
     void booksearch();
 public:
-    usermenu(booklist& bb, userlist& uu) :bl(bb), ul(uu){};
+    //usermenu(booklist& bb, userlist& uu) :bl(bb), ul(uu){};
     void userstart();
 };
 
@@ -132,5 +132,5 @@ protected:
     void usersearch();
 public:
     void start();
-    adminmenu(booklist& bb, userlist& uu) : usermenu(bb,uu){};
+    //adminmenu(booklist& bb, userlist& uu) : usermenu(bb,uu){};
 };

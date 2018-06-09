@@ -44,7 +44,7 @@ void wait()
         i--;
         if(i<0)
         {
-            i==lsize-1;
+            i=lsize-1;
         }
     }
     bool commonlist::setcur(int ii)
@@ -576,6 +576,8 @@ void usermenu::booksearch()
 
     void adminmenu::start()
     {
+        bl.getbooks();
+        ul.getusers();
         while(!login());
         if (!ul.isadmin())
         {
@@ -585,6 +587,8 @@ void usermenu::booksearch()
         {
             adminstart();
         }
+        bl.savebooks();
+        ul.saveusers();
     }
 bool adminmenu::login()
 {
